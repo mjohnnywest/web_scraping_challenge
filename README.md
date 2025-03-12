@@ -3,11 +3,17 @@
 ## Dependencies:
 Ensure all of the following are pip installed:
 jupyter notebook, anaconda/VSCode
+
 beautifulsoup4
+
 splinter
+
 matplotlib
+
 numpy
+
 pandas
+
 datetime
 
 Additionally, Firefox and Geckodriver for Firefox must be installed
